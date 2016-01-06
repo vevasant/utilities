@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # This bootstraps Puppet on CentOS , RHEL 5.x,6.x,7.x
 # It has been tested on RHEL 6.6 64bit
