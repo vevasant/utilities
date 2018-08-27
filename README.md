@@ -1,2 +1,2 @@
 # utilities
-A set of software utilities in different areas of technology 
+This repository is created to put together automation scripts
